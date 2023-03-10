@@ -1,10 +1,10 @@
 # Bot Website SRC Code
 
-This Bot Website is a cool script which is useful for you.
+This Bot Website is a cool website script which is useful for you.
 
 # You can use this on any hosting platform
 
-Check the example of this script: https://clockhms.netlify.app/
+Check the example of this script: https://utilitybot.netlify.app
 
 # How to set this up?
 You can use any hosting platform to set it up.
